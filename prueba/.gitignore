@@ -1,0 +1,4 @@
+lib
+*.tmp
+*.-class
+*.class
